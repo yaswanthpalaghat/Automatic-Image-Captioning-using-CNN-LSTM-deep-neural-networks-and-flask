@@ -37,7 +37,7 @@ Place the dataset files in image-captoin/train_val_data
 
 
 ## 5.Download the code from the following github repository.
-                                  Github link
+          https://github.com/yaswanthpalaghat/Automatic-Image-Captioning-using-CNN-LSTM-deep-neural-networks-and-flask
 ## 6.Run app.py and cap.py in the terminal.
 ## 7.Open browser and type Localhost:3000.
 
