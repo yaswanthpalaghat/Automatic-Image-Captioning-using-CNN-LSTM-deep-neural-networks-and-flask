@@ -14,6 +14,9 @@ In this model, we has used CNN and LSTM to generate captions for the images and 
 
               https://illinois.edu/fb/sec/1713398
 
+Place the dataset files in image-captoin/train_val_data
+              
+
 ## 4.Download the following libraries required by the project through the PIP using the following format.
 ## PIP INSTALL <<LIBRARY NAME>>
 •	tensorflow
