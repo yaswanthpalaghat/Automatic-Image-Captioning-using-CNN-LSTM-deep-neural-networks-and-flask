@@ -18,7 +18,7 @@ Place the dataset files in image-captoin/train_val_data
               
 
 ## 4.Download the following libraries required by the project through the PIP using the following format.
-## PIP INSTALL <<LIBRARY NAME>>
+## PIP INSTALL << LIBRARY NAME >>
 •	tensorflow
 •	keras
 •	numpy
