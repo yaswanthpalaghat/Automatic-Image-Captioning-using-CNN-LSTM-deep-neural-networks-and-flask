@@ -15,7 +15,7 @@ itsdangerous==0.24
 jedi==0.10.3
 Jinja2==2.9.6
 jsonschema==2.6.0
-lxml==3.8.0
+lxml==4.6.3
 Markdown==2.2.0
 MarkupSafe==1.0
 matplotlib==2.0.2
